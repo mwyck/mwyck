@@ -1,5 +1,9 @@
-### Hi there 👋
+### Name: Maxwell Wyckoff
+### Email: mowyckoff@my.waketech.edu
 
+### My GitHub account is brand new
+### This is the repository I'll use to store files for future projects. It's under Documents in my file explorer
+### I downloaded Github Desktop, logged in, and clones the repository by selecting from the list of repositories presented in my files. I went back to github, opened the readme file in github and then edited the code. After that, I committed the changes.
 <!--
 **mwyck/mwyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
